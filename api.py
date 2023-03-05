@@ -8,7 +8,6 @@ from langchain.agents import initialize_agent, Tool
 from langchain.llms import OpenAI
 from dotenv import load_dotenv
 from langchain.chains.conversation.memory import ConversationalBufferWindowMemory
-import uvicorn
 from dotenv import load_dotenv
 from vn_healthcare import vn_healthcare_bot
 
