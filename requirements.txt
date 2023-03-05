@@ -3,3 +3,4 @@ fastapi
 gunicorn
 langchain
 requests
+uvicorn
